@@ -44,6 +44,7 @@ These projects are built on go-raft:
 - [goraft/raftd](https://github.com/goraft/raftd) - A reference implementation for using the go-raft library for distributed consensus.
 - [Weed File System](https://weed-fs.googlecode.com) - A scalable distributed key-to-file system with O(1) disk access for each read.
 - [rqlite](https://github.com/otoolep/rqlite) - A replicated SQLite database, distributing the database replicas across multiple nodes.
+- [raftX](https://github.com/izouxv/raftX) - A Another reference implementation for using the go-raft library for distributed consensus. its a demo like zookeeper, it's implement Lock,Watch,MkDir,MkFile,MkTemplateFile,etc. 
 
 If you have a project that you're using go-raft in, please add it to this README so others can see implementation examples.
 
